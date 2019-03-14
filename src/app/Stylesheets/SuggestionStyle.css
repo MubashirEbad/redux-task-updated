@@ -1,0 +1,40 @@
+.suggestion-box{
+    margin-top: 1%;
+    font-family: "sans-serif";
+    font-size: 18px;
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 90%;
+}
+
+.suggestion-flex{
+    display: flex;
+    flex-direction: column;
+}
+
+.suggestions-books-flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.suggestions-books-grid{
+    display: grid;
+    grid-template-columns: 10% auto;
+}
+
+.suggestions-books-grid:hover{
+    background-color: aquamarine;
+}
+
+.books-image{
+    height: 50px;
+    width: 50px;
+}
+
+.moreBooksLink{
+    color: blue;
+}
+
+.moreBooksLink:hover{
+    text-decoration: underline;
+}
