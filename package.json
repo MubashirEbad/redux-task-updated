@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cors": "^2.8.5",
     "lodash": "^4.17.11",
     "lodash.debounce": "^4.0.8",
     "react": "^16.8.4",
